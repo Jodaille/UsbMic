@@ -6,7 +6,7 @@ USB microphone with ADMP401 MEMS
 
 ## Hardware used
 - ADMP401
-- HX1117 AH 3.3HS1430
+- AMS1117 (HX1117 AH 3.3HS1430)
 - USB Soundcard (1b3f:2008 Generalplus Technology Inc.)
 
 ![Cheap USB soundcard]( https://raw.githubusercontent.com/Jodaille/UsbMic/master/Cheap_USB_Soundcard.jpg "Cheap USB soundcard" )
